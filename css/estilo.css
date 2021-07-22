@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    margin: auto;
+}
+.cajaroja{
+    background-color: red;
+    color: white;
+}
+.cajaazul{
+    background-color: blue;
+    color: white;
+}
+.col-md-12{
+    flex-basis: 50%;
+}
+.cajaverde{
+    background-color: green;
+    color: white;
+}
+.cajanaranja{
+    background-color: orange;
+    color: white;
+}
+.cajaprincipal{
+    padding: 1em;
+}
+.box{
+    padding: 1em;
+}
+.cajamorada{
+    background-color: violet;
+    color: white;
+}
+.cajaamarilla{
+    background-color: yellow;
+    color: white;
+}
